@@ -10,7 +10,7 @@ labels:
   - git
   - fxml
   - junit
-summary: "A desktop application that handles the bookings for a hotell."
+summary: "A school project desktop application that handles the bookings for a hotell."
 ---
 
 
