@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/bookingApp/bookingApp-square.png
 title: "BookingApp"
 date: 2022
 published: true
@@ -13,7 +13,7 @@ labels:
 summary: "A desktop application that handles the bookings for a hotell."
 ---
 
-<img class="img-fluid" src="../img/booking-app/booking-square.png">
+<img class="img-fluid" src="../img/bookingApp/bookingApp-full.png">
 
 The BookingApp is a desktop application that could be implementet by any hotel! The app has an interactive view of all the rooms on a current date, displays current and previous bookings and let you add new bookings. And the most important: it lets you know how much these bookings will cost.
 
