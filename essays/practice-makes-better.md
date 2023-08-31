@@ -20,4 +20,4 @@ I am still amazed, by this day, how quickly it was possible to get a hang of Jav
 
 Practice is what’s going to make me better in the future as well. Solving numerous of small brain twisting problems, while also creating more complex project, will give the introduction to the language I need, to go on an be creative with JavaScript when I’m done with “Software Engineering 1”.
 
-<img width="200px" class="rounded float-start pe-4" src="../img/practice-makes-perfect/js-code.png>
+<img width="200px" class="rounded float-start pe-4" src="../img/practice-makes-perfect/js-code.png">
