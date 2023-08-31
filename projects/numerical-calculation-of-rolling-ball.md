@@ -19,7 +19,7 @@ This report was created in a physics class (TFY4107) at the  Norwegian Universit
 
 My main area of responsibility was to write the calculations, LaTeX functions, and plot in the Results chapter. This was the first time I used Python for a big numerical project, and it gave me more experience and confidence in Python's mathematical abilities. The extensive use of plotting made me more comfortable with using Numpy and exploring all the visualization opportunities it gives.
 
-Disclaimer: The report is written in Norwegian.
+*Disclaimer: The report is written in Norwegian.*
 
 Here is the link to the full Juptyer Notebook:
  
