@@ -10,7 +10,7 @@ labels:
   - Practice
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/practice-makes-perfect/js-logo.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/practice-makes-better/js-logo.png">
 
 People talk about JavaScript. A lot. I hear about JavaScript all over the place. Yet, I had never seen JavaScript code. Before I started my third year of studies. The minute I walked into the classroom in the class “Software Engineering 1” JavaScript got thrown on me. “Solve 140 JavaScript problems before next class” was the only thing I remembered my professor say, when I walked out of the classroom an hour later. Mildly shocked.
 
@@ -20,4 +20,4 @@ I am still amazed, by this day, how quickly it was possible to get a hang of Jav
 
 Practice is what’s going to make me better in the future as well. Solving numerous of small brain twisting problems, while also creating more complex project, will give the introduction to the language I need, to go on an be creative with JavaScript when I’m done with “Software Engineering 1”.
 
-<img width="200px" class="rounded float-start pe-4" src="../img/practice-makes-perfect/js-code.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/practice-makes-better/js-code.png">
