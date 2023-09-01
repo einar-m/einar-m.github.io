@@ -12,7 +12,7 @@ labels:
   - My future
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/a-new-language-please/py-js.jpeg">
+<img width="250px" class="rounded float-start pe-4" src="../img/a-new-language-please/learn-to-code.jpeg">
 
 ## Starting off right
 
@@ -49,3 +49,5 @@ And there she was. The answer to my prayers. Next in line: JavaScript. By lookin
 ## I want more!
 
 I feel very motivated to progress in my software engineering career. JavaScript, HTML and CSS, as I’m learning this semester at school, will finally allow me to build frontends as well, not just backend. I will be able to create webpages I can show my mom, and she can pull it up on the other side of the globe! I enjoy learning new things, and one of my favorite things about programming is how you actually create something. It’s not abstract. You can use your code to solve everyday problems, or you can create something revolutionary. And regardless of which language I’ll work with in the future, I believe knowing several languages will give me a better understanding of computer science as a whole. Which is why I look forward to learning JavaScript this fall. And after that? I want more!
+
+<img width="300px" class="rounded float-start pe-4" src="../img/a-new-language-please/py-js.jpeg">
