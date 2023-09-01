@@ -21,6 +21,6 @@ My main area of responsibility was to write the calculations, LaTeX functions, a
 
 *Disclaimer: The report is written in Norwegian.*
 
-Here is the link to the full Juptyer Notebook and HTML-file of the results:
+Here is the link to the full Juptyer Notebook and HTML file of the results:
  
 Source: <a href="https://github.com/einar-m/TFY4107-lab">einar-m/TFY4107-lab</a>
