@@ -6,7 +6,7 @@
     "email": "einarm@hawaii.edu",
     "phone": "+1 (808) 373-0567",
     "website": "https://einar-m.github.io",
-    "summary": "I am studying for an MSc in Computer Science and finance, at the Norwegian University of Science and Technology, with an expected graduation Spring 2026. The Fall of 2023, I'm doing an exchange semester to the University of Hawai'i.",
+    "summary": "I am studying for an MSc in Computer Science and Finance, at the Norwegian University of Science and Technology, with an expected graduation Spring 2026. In the Fall of 2023, I'm doing an exchange semester at the University of Hawai'i.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "einar-m", "url": "http://github.com/einar-m" },
@@ -40,7 +40,7 @@
     },
     {
       "institution": "Norwegian University of Science and Technology, Trondheim, Norway",
-      "area": "Computer Science and finance",
+      "area": "Industrial Economics and Technology Management",
       "studyType": "M.Sc.",
       "startDate": "2021-08-19",
       "endDate": "Present",
@@ -67,7 +67,7 @@
       "website": "",
       "startDate": "2017-08-01",
       "endDate": "2021-07-31",
-      "summary": "Worked as a platoon sergeant in the army, and flight opertion specialist in a SAR helicopter wing",
+      "summary": "Worked as a platoon sergeant in the army, and flight operations specialist in a SAR helicopter wing",
       "highlights": [
         "Responsible for education, training, material and developing the sergeants",
         "Helped the SAR crew plan their training and missions"
@@ -84,7 +84,7 @@
       "summary": "",
       "highlights": [
         "Chair, Hytteforeningen at Indøk @ NTNU, 2021-2023",
-        "Member, The Excecutive Board for students at Indøk @ NTNU, 2022-2023",
+        "Member, The Executive Board for students at Indøk @ NTNU, 2022-2023",
         "Logistics affiliate, ActiveCampus Torndheim, 2022"
       ]
     }
