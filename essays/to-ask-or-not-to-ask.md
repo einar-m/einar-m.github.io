@@ -28,7 +28,7 @@ Let’s look at an example of a smart question: *[How do I merge two dictionarie
 ## Not so smart...
 If you don’t ask a smart question, it will be more difficult to get the answers you need. Let’s look at “*[why access memory error when malloc the size so large?](https://stackoverflow.com/questions/77064733/why-access-memory-error-when-malloc-the-size-so-large)*”. By reading the title, I don’t understand much of what the question is about. When looking at the question itself, I looked at the tags to understand which language he was asking about, but the author had tagged two different languages. The question gives very little information and has bad punctuation. This clearly annoys the responders of StackOverflow, as no answers have been provided. Even though the post has obviously been seen by several, the post has gained several comments about the wrong use of tags, wrong assumptions in the question, and missing information.
 
-<img width="2500px" class="rounded float-start pe-4" src="../img/to-ask-or-not-to-ask/questions-answers.jpg">
+<img width="250px" class="rounded float-start pe-4" src="../img/to-ask-or-not-to-ask/questions-answers.jpg">
 
 ## Smart questions, smart answers
 The differences in the responses to the smart question and the not-so-smart question highlight the importance of putting effort into your questions. If you want smart answers, you need to provide smart questions. And, to be honest, you will hardly ever need to post a question, you just need to Google, and your answer will already be available. Even the smart question example I refer to is a question posted numerous times on StackOverflow. STFW!
