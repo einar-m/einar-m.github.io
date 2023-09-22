@@ -22,9 +22,6 @@ Sometimes I used normal quotation marks when declaring a string, sometimes I use
 
 ## Seeing the light
 
-Now, I have been introduced to ESLint, and it's the tool I've missed. It tells me when I'm doing something wrong, it tells me when I'm doing something right. It makes me consistent. I have already noticed how much more readable my code is, after I started using a coding standard. Now I get used to seeing a way of formatting every time, and hence, it's quicker to get an overview over the code, as my eyes don't have to adjust to different styles for every new function. And when others are reading my code, if they're used to the same coding standard, they'll have the same relief. They'll be able to focus on the code, not the syntax. 
-
 <img width="300px" class="rounded float-start pe-4" src="../img/coding-standards/bad-code.png" alt="Two functions with different coding standards">
 
-
-
+Now, I have been introduced to ESLint, and it's the tool I've missed. It tells me when I'm doing something wrong, it tells me when I'm doing something right. It makes me consistent. I have already noticed how much more readable my code is, after I started using a coding standard. Now I get used to seeing a way of formatting every time, and hence, it's quicker to get an overview over the code, as my eyes don't have to adjust to different styles for every new function. And when others are reading my code, if they're used to the same coding standard, they'll have the same relief. They'll be able to focus on the code, not the syntax. 
