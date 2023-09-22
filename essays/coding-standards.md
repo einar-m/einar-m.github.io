@@ -18,7 +18,7 @@ I have just been introduced to coding standards. And it feels like the tool I've
 
 ## Is there a problem here?
 
-Sometimes I used normal quotation marks when declaring a string, sometimes I used single ticks. Did I use spaces after commas or around operator? I tried to stay somewhat consistent within a file, but not in a project. And definitely not between projects. What I found the most readable depended on my mood that day. When I collaborated with other developers on projects, we definetly dind't follow the same style, it was easy to see who wrote what. Sometimes we even adjusted each others code to comply with our personal taste. It always turned into a whole mix of standards that was hard to read for anyone.
+Sometimes I used normal quotation marks when declaring a string, sometimes I used single ticks. Did I use spaces after commas or around operator? I tried to stay somewhat consistent within a file, but not in a project. And definitely not between projects. What I found the most readable depended on my mood that day. When I collaborated with other developers on projects, we definitely didn't follow the same style, it was easy to see who wrote what. Sometimes we even adjusted each others code to comply with our personal taste. It always turned into a whole mix of standards that was hard to read for anyone.
 
 ## Seeing the light
 
