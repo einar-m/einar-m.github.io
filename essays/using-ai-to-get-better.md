@@ -21,7 +21,7 @@ It was my professors in a software engineering class, who started talking a lot 
 
 But then we started with more complex assignments, and moved back to a conventional desktop IDE, with my freshly installed GitHub CoPilot. And that's the turning point for my use of AI. CoPilot integrated seamlessly with my standard workflow, and I could evaluate CoPilots suggestions at the same time as I was writing my own code. This made the process of using AI way more streamlined.
 
-<img width="250px" class="rounded float-start pe-4" src="../img/using-ai-to-get-better/copilot-chat.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/using-ai-to-get-better/copilot-chat.png">
 
 The first time I realized the potential in CoPilot, was when I was doing an assignment where I was supposed to implement sumOfNumbers() in three different ways. To avoid having to switch back to check on the task every now and then, I copied the task into my JavaScript file, so I could easily check on it.
 ```javascript
@@ -32,7 +32,7 @@ Before I had time to get on with the task at hand, all three functions were disp
 The essays displayed in my portfolio are written in my IDE. Hence, CoPilot does it's best at autocompleting my sentences and paragraphs here as well. This is a tool I'm more reversed against using, as I'm not too sure about the text in enters won't be somebody else's, and I want my reflections to be my own. I do however, feel like CoPilot adapts to my writing style, and a lot of its proposals look like things I could've written myself. And with English being my second language, looking at the suggestions gives a lot of inspiration and help for my vocabulary.
 
 
-<img width="400px" class="rounded float-start pe-4" src="../img/using-ai-to-get-better/do-my-hw.png">
+<img width="250px" class="rounded float-start pe-4" src="../img/using-ai-to-get-better/do-my-hw.png">
 
 ## Impact on learning and understanding
 I've tried throughout the semester to be considerate on when I'm learning new topics, and when I'm doing stuff I already know. When I'm implementing code I know how works, and which I know I could've written without any problems, I use CoPilot a lot to speed things up. Examples of this could be CoPilot writing the imports for a file, listing up the PropTypes in React or setting up my Boostrap grid in HTML.
@@ -57,7 +57,7 @@ On the other side, I believe college classes is a great place to start using AI 
 ## Future considerations
 In the future, I will keep on limiting my use of AI when it comes to writing lines of code when learning a new topic. Then, the more comfortable I get, the more should AI be implemented in the process. Regarding using AI as a study partner, I hope I will use AI even more, to make my study sessions more effective. Diving into the possibilities of CoPilot Chat is something I'm looking forward to, and I think using it to explain template code I don't understand is a great start. 
 
-<img width="250px" class="rounded float-start pe-4" src="../img/using-ai-to-get-better/helpful.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/using-ai-to-get-better/helpful.png">
 
 ## Conclusion
 Bottom line, I believe AI in software engineering is a set of tools that will revolutionize the way we code. We will be able to code faster, and do less repetitive coding. AI will also be a way more accessible helper when you get stuck. In the beginning of my software career, StackOverflow and similar websites has been great for getting help, but in the future AI will replace the need for online forums. The skill of writing good prompts is something that will be important to get the most efficient use, and what will be my main focus in enhancing my use of AI even further. 
