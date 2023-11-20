@@ -19,17 +19,47 @@ Just like everyone else, I was stunned and surprised when OpenAI launched their 
 ## Personal experience
 It was my professors in a software engineering class, who started talking a lot about AI. They encouraged us to try different AI tools, and demonstrated real life usage in class. In the beginning of the semester, we did a lot of short coding challenges in an online editor, similar to coding challenges you would expect in an interview. For me, it felt like more of a hassle having to switch tabs to ChatGPT, write a prompt, copying back the answer, edit the snippet to work for my code and so on, than just writing the code myself.
 
-But then we started with more complex assignments, and moved back to a conventional desktop IDE, with my freshly installed GitHub CoPilot. And that's the turning point for my use of AI. CoPilot integrated seamlessly with my standard workflow, and I could evaluate CoPilots suggestions at the same time as I was writing my own code. This made the process of using AI way more streamlined.
+But then we started with more complex assignments, and moved back to a conventional desktop IDE, with my freshly installed GitHub CoPilot. And that's the turning point for my use of AI. CoPilot integrated seamlessly with my standard workflow, and I could evaluate CoPilots suggestions at the same time as I was writing my own code. This made the process of using AI way more streamlined. In the following subsections, I will write about my AI experiences in specific situations in a software engineering class at University of Hawaii, ICS 314. ("WOD" is "workout of the day", a timed coding challenge).
 
-<img width="400px" class="rounded float-start pe-4" src="../img/using-ai-to-get-better/copilot-chat.png">
-
-The first time I realized the potential in CoPilot, was when I was doing an assignment where I was supposed to implement sumOfNumbers() in three different ways. To avoid having to switch back to check on the task every now and then, I copied the task into my JavaScript file, so I could easily check on it.
+1. Experience WODs<br>
+It was in the "Experience Functional Programming" I realized the true power of CoPilot. I was supposed to implement sumOfNumbers() in three different ways. To avoid having to switch back to check on the task every now and then, I copied the task into my JavaScript file, so I could easily check on it.
 ```javascript
 // Write four functions that return the sum of the numbers in a given list using a for-loop, a while-loop, recursion, and underscore. Call them sumFor, sumWhile, sumRecursion, and sumTheSimpleWay.
 ```
-Before I had time to get on with the task at hand, all three functions were displayed on the screen, in a grey shadow like manner. CoPilot had implemented all the functions using the correct library, and waited patiently for me to press ```tab``` before the code was actually inserted. It even included text arrays and calls for me to test that it worked properly.
+Before I had time to get on with the task at hand, all three functions were displayed on the screen, in a grey shadow like manner. CoPilot had implemented all the functions using the correct library, and waited patiently for me to press ```tab``` before the code was actually inserted. It even included text arrays and calls for me to test that it worked properly.<br>
+2. In-class practice WODs<br>
+For the in-class practice WODs, we have usually covered topics I've gotten the time to become familiar with. Hence, I have used these sessions to focus on my own coding skills, and not use AI to help me solve these.<br>
+3. In-class WODs<br>
+The in-class WODs are graded and timed, so it's important to get them done on time. In situations like this, when the focus is about completing the task on time, rather than learn as much as possible, CoPilot has been excellent for autocompleting my lines of code. An example of lines of code that just takes time to write is when you have several imports. CoPilot has autocompleted most of my imports without errors, as soon as I've used non-imported files in my code.<br>
+4. Essays<br>
+The essays displayed in my portfolio are written in my IDE. Hence, CoPilot does it's best at autocompleting my sentences and paragraphs here as well. This is a tool I'm more sceptical at using, as I'm not too sure about the text in enters won't be somebody else's, and I want my reflections to be my own. I do however, feel like CoPilot adapts to my writing style, and a lot of its proposals look like things I could've written myself. And with English being my second language, looking at the suggestions gives a lot of inspiration and help for my vocabulary.<br>
+5. Final Project<br>
+My use of AI, specifically CoPilot, in our final project, has mostly been for generic autocompletion, without any specific prompts or issues. I also used CoPilot to help the brainstorming process around creating an application name, which I've written more about in the "Practical applications" section.<br>
+6. Learning a concept/tutorial<br>
+In ICS 314, all lectures are recorded as videos and posted online. This has made me able to watch the videos whenever it suits me, and repeat important parts. This has been all the tutorials I've needed for this class, and I have not used AI for this.<br> 
+7. Answering a question in class or in Discord<br>
+I have not used AI to answer questions in class or in Discord.<br>
+8. Asking or answering a smart-question<br>
+I have not used AI to ask or answer smart questions.<br>
+9. Coding example<br>
+I have not used AI for coding examples.<br>
+10. Explaining code<br>
+AI, CoPilot Chat, has been a good help for explaining system and project files which are beside our main topics in the class. For example did Chat help me understand how the header.html file in this portfolio template is using Liquid and Jekyll to display the correct page title. 
+11. Writing code<br>
+When working with routing in Meteor, I wanted to create a function that checked if no user was signed in, before displaying a page. If a user was logged in, the user should be redirected to another page. I asked CoPilot Chat if it knew a way of doing this, and it returned a set of functions which worked perfectly.
+12. Documenting code<br>
+I have not used AI to document code.<br>
+13. Quality assurance<br>
+I have not used AI for quality assurance.<br>
+14. Other uses in ICS 314 not listed<br>
+All of my usages are listed above.<br>
 
-The essays displayed in my portfolio are written in my IDE. Hence, CoPilot does it's best at autocompleting my sentences and paragraphs here as well. This is a tool I'm more reversed against using, as I'm not too sure about the text in enters won't be somebody else's, and I want my reflections to be my own. I do however, feel like CoPilot adapts to my writing style, and a lot of its proposals look like things I could've written myself. And with English being my second language, looking at the suggestions gives a lot of inspiration and help for my vocabulary.
+<img width="400px" class="rounded float-start pe-4" src="../img/using-ai-to-get-better/copilot-chat.png">
+
+
+The first time I realized the potential in CoPilot, was when I was doing an assignment where 
+
+The essays displayed in my portfolio are written in my IDE. Hence, CoPilot does it's best at autocompleting my sentences and paragraphs here as well. This is a tool I'm more sceptical at using, as I'm not too sure about the text in enters won't be somebody else's, and I want my reflections to be my own. I do however, feel like CoPilot adapts to my writing style, and a lot of its proposals look like things I could've written myself. And with English being my second language, looking at the suggestions gives a lot of inspiration and help for my vocabulary.
 
 
 <img width="250px" class="rounded float-start pe-4" src="../img/using-ai-to-get-better/do-my-hw.png">
