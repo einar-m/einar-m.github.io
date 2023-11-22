@@ -6,7 +6,7 @@
     "email": "einarm@hawaii.edu",
     "phone": "+1 (808) 373-0567",
     "website": "https://einar-m.github.io",
-    "summary": "I am studying for an MSc in Computer Science and Finance, at the Norwegian University of Science and Technology, with an expected graduation Spring 2026. In the Fall of 2023, I'm doing an exchange semester at the University of Hawai'i.",
+    "summary": "I am studying for a MSc in Computer Science/AI, Economy and Business, at the Norwegian University of Science and Technology, with an expected graduation Spring 2026. In the Fall of 2023, I'm doing an exchange semester at the University of Hawaii.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "einar-m", "url": "http://github.com/einar-m" },
@@ -21,18 +21,18 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Python", "Java", "SQL", "Assembly" ]
+      "keywords": [ "Python", "Java", "SQL", "JavaScript", "HTML/CSS" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Git/GitHub" ]
+      "keywords": [ "MacOS", "git", "Jupyter", "Wireshark" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Hawaii, Honolulu, Hawaii",
       "area": "Computer Science and business",
-      "studyType": "",
+      "studyType": "Exchange semester",
       "startDate": "2023-08-21",
       "endDate": "Present",
       "courses": [
@@ -55,10 +55,8 @@
       "website": "",
       "startDate": "2021-09-10",
       "endDate": "2023-01-31",
-      "summary": "TA in intro to computer science classes and in a grad class about working in diverse teams.",
+      "summary": "TA in an intro to computer science class and a grad class focusing on developing team cooperation skills.",
       "highlights": [
-        "Tutor and grade freshmen in Python projects",
-        "Facilitate teams and help them reflect on their group processes"
       ]
     },
     {
@@ -69,8 +67,8 @@
       "endDate": "2021-07-31",
       "summary": "Worked as a platoon sergeant in the army, and flight operations specialist in a SAR helicopter wing",
       "highlights": [
-        "Responsible for education, training, material and developing the sergeants",
-        "Helped the SAR crew plan their training and missions"
+        "Responsible for education, training, material and culture in a platoon of 20 soldiers",
+        "Supported a SAR crew in planning and coordinating their missions and training"
       ]
     }
   ],
@@ -85,16 +83,8 @@
       "highlights": [
         "Chair, Hytteforeningen at Indøk @ NTNU, 2021-2023",
         "Member, The Executive Board for students at Indøk @ NTNU, 2022-2023",
-        "Logistics affiliate, ActiveCampus Torndheim, 2022"
+        "Logistics affiliate, ActiveCampus Trondheim, 2022"
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Various awards",
-      "date": "2017-2023",
-      "awarder": "The Norwegian Armed Forces",
-      "summary": "Undisclosed"
     }
   ],
   "references": [
