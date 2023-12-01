@@ -22,7 +22,8 @@ In my early coding days, the longest code I had written was a 400 line Sudoku pr
 
 There are countless design patterns, and if you think hard enough, you could probably think of a slightly different way to structure code and give it a name. In a website I'm building as another school project, we use Mongo collections as our database. We have created classes that create an instance of each collection, and use this globally. Even though this seems like an intuitive and straight forward way of doing it, it's still a design pattern: singleton. Using global variables to control the state of the program. The collections are published from the server following a set of rules, and other classes can subscribe to these collections. This publish/subscribe pattern is very similar to the observer pattern.
 
+<img width="300px" class="rounded float-start pe-4" src="../img/design-patterns/observers.jpg" alt="Two functions with different coding standards">
+
 ## Learn the basics
 
 Even though many design patterns overlap, and some seem intuitive, I believe every programmer should study the basic design patterns used in the language or framework they're using. And before starting on a new project, do some general planning, and think of which design patterns that will be the framework of you application. It's much easier to add functionality to a well designed codebase, than to try to restructure a mess.
-<img width="300px" class="rounded float-start pe-4" src="../img/coding-standards/bad-code.png" alt="Two functions with different coding standards">
