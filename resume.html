@@ -18,9 +18,9 @@ layout: home
         {% capture label %}{{ site.data.bio.basics.website | remove: "http://" | remove: "https://" }}{% endcapture %}
         <p class="mb-1">{% include about/social.html url=url name='house' label=label %} </p>
 
-        <!-- {% capture url %}mailto:{{ site.data.bio.basics.email }}{% endcapture %} -->
+        {% capture url %}mailto:{{ site.data.bio.basics.email }}{% endcapture %}
         {% capture label %}{{ site.data.bio.basics.email }}{% endcapture %}
-        <p class="mb-1">{% include about/social.html url=url name='envelope' label=label %}</p>
+        <!-- <p class="mb-1">{% include about/social.html url=url name='envelope' label=label %}</p> -->
 
         {% for profile in site.data.bio.basics.profiles %}
           {% capture url %}{{ profile.url }}{% endcapture %}
