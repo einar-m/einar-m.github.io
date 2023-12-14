@@ -1,0 +1,95 @@
+{
+  "basics": {
+    "name": "Einar Midthun",
+    "label": "Student",
+    "picture": "https://github.com/einar-m.png",
+    "phone": "Contact: LinkedIn ",
+    "email": "",
+    "website": "https://einar-m.github.io",
+    "summary": "I'm pursuing a M.Sc. in Computer Science/AI, Economy and Business, at the Norwegian University of Science and Technology, with an expected graduation Spring 2026. In the Fall of 2023, I'm an exchange student at the University of Hawaii. In the Spring of 2024, I'll be an exchange student at the University of Cape Town.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "einar-m", "url": "http://github.com/einar-m" },
+      { "network": "linkedin", "username": "emidthun", "url": "http://linkedin.com/in/emidthun" }
+    ]
+  },
+  "interests": [
+    { "name": "Cyber security" },
+    { "name": "Economics" },
+    { "name": "Software development" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "Python", "Java", "SQL", "JavaScript", "HTML/CSS" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "git", "Jupyter", "Wireshark" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, Hawaii",
+      "area": "Computer Science and business",
+      "studyType": "Exchange semester",
+      "startDate": "2023-08-21",
+      "endDate": "Present",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Norwegian University of Science and Technology, Trondheim, Norway",
+      "area": "Industrial Economics and Technology Management",
+      "studyType": "M.Sc.",
+      "startDate": "2021-08-19",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Norwegian University of Science and Technology",
+      "position": "Teaching Assistant",
+      "website": "",
+      "startDate": "2021-09-10",
+      "endDate": "2023-01-31",
+      "summary": "TA in an intro to computer science class and a grad class focusing on developing team cooperation skills.",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "The Norwegian Armed Forces",
+      "position": "OR5-OR6",
+      "website": "",
+      "startDate": "2017-08-01",
+      "endDate": "2021-07-31",
+      "summary": "Worked as a platoon sergeant in the army, and flight operations specialist in a SAR helicopter wing",
+      "highlights": [
+        "Responsible for education, training, material and culture in a platoon of 20 soldiers",
+        "Supported a SAR crew in planning and coordinating their missions and training"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "",
+      "website": "",
+      "position": "Professional organization involvement",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Chair, Hytteforeningen at Indøk @ NTNU, 2021-2023",
+        "Member, The Executive Board for students at Indøk @ NTNU, 2022-2023",
+        "Logistics affiliate, ActiveCampus Trondheim, 2022"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}

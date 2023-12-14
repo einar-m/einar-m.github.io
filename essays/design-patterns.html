@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Choosing optimal design | Einar Midthun | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/einar-m.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Einar Midthun | Professional Portfolio">
+    <meta property="og:url" content="https://einar-m.github.io/essays/design-patterns.html">
+    <meta property="og:title" content="Choosing optimal design | Einar Midthun | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/einar-m.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/default.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>Choosing optimal design | Einar Midthun | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Einar Midthun</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">Choosing optimal design</h1>
+  <span class="date">30 Nov 2023</span>
+  <hr>
+  <p><img width="250px" class="rounded float-start pe-4" src="../img/design-patterns/mvc.webp" alt="Model-View-Controller" /></p>
+
+<h2 id="starting-without-a-plan">Starting without a plan</h2>
+
+<p>It’s not until you actually start building big projects, you realize that you need to have a plan for you code. You can’t just start writing, and hope everything works together well. What if you come up with another idea half way through that you want to implement? What if your code turns out to be more complex than what you initially thought, or you start to lose track of you way to long one-file solution. It’s when you start building these projects, you have to consider which design patterns to chose.</p>
+
+<p>A design pattern is a general, reusable solution to a commonly occurring problem within a given context in software design. It is a concept or template for how to structure code, that can be used in many different situations. Design patterns aren’t academically defined concepts, but rather best practices on who to tackle common problems. One example is the observer pattern, which is used when you have several files or models that need updated info when a given event happens. By creating a specific class method that notifies other classes of the event, other classes can subscribe to this method and get notified when the event happens. This way, you don’t have to manually update all the classes that need the info, and it’s easy to add or remove classes that need the info.</p>
+
+<h2 id="so-many-options">So many options</h2>
+<p>In my early coding days, the longest code I had written was a 400 line Sudoku program, all in one file. When my next task was to build a (very basic) hotel booking system with a working user interface, I was lost. Luckily this was a school project, and the course introduced us for what they called “design patterns”. Our project was going to be based off something they called model-view-controller. We built a frontend in FXML and backend in Java, and the user interface (view) only communicated with the backend (model) through a single  file (controller). This approach made it easier for us to add more functionality to the program as the course progressed, without having to redo our whole codebase. By adding observer functionality to the booking class, all the other relevant objects could get the info right away, like the room-object.</p>
+
+<p>There are countless design patterns, and if you think hard enough, you could probably think of a slightly different way to structure code and give it a name. In a website I’m building as another school project, we use Mongo collections as our database. We have created classes that create an instance of each collection, and use this globally. Even though this seems like an intuitive and straight forward way of doing it, it’s still a design pattern: singleton. Using global variables to control the state of the program. The collections are published from the server following a set of rules, and other classes can subscribe to these collections. This publish/subscribe pattern is very similar to the observer pattern.</p>
+
+<p><img width="300px" class="rounded float-start pe-4" src="../img/design-patterns/observers.jpg" alt="Two functions with different coding standards" /></p>
+
+<h2 id="learn-the-basics">Learn the basics</h2>
+
+<p>Even though many design patterns overlap, and some seem intuitive, I believe every programmer should study the basic design patterns used in the language or framework they’re using. And before starting on a new project, do some general planning, and think of which design patterns that will be the framework of you application. It’s much easier to add functionality to a well designed codebase, than to try to restructure a mess.</p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>

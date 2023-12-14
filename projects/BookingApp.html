@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="BookingApp | Einar Midthun | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/einar-m.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Einar Midthun | Professional Portfolio">
+    <meta property="og:url" content="https://einar-m.github.io/projects/BookingApp.html">
+    <meta property="og:title" content="BookingApp | Einar Midthun | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/einar-m.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/default.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>BookingApp | Einar Midthun | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Einar Midthun</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">BookingApp</h1>
+ <p>The BookingApp is a desktop application that could be implemented by any hotel! The app has an interactive view of all the rooms on a current date, displays current and previous bookings, and lets you add new bookings. And the most important: it lets you know how much these bookings will cost.</p>
+
+<p>See a screenshot of the application at the bottom of the page.</p>
+
+<p>How to use the app is enclosed on the right-hand side of the screen, in Norwegian. The application requires the user to log in. Due to this being a school project, the credentials are listed on the login screen, this would of course be removed before giving the application to customers.</p>
+
+<p>The application has only one view, so you get all your info in one place. A table showing the hotel’s 9 rooms is live updated, and will show availability immediately when you change the date. The bookings and booking archive are stored in local .csv files. The application will always start up with displaying today’s date, and will not let you add bookings back in time. The price for the room is calculated based on formulas including the type of room and how many days in advance the booking happens. You can close your application any time and be safe that the new bookings are already saved, and will be shown the next time you open the application.</p>
+
+<p>The project was done as a part of an intro to OOP class. I wrote it together with a partner, Benjamin Bøe, and this was our first time using Java, FXML, and JUnit. We worked on all of the code together. The FXML files were created interactively with the program SceneBuilder. As this was my first major project, I developed a much bigger understanding of how programs can use a variety of files, how to structure code into different files in the most efficient manner, and excessive use of imports. The JUnit-test revealed several mistakes in our code, that we wouldn’t have discovered without them, so it was also a big heads-up on the importance of writing good tests.</p>
+
+<p><img class="img-fluid" src="../img/bookingApp/bookingApp-full.png" /></p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>
